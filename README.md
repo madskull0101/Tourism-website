@@ -20,6 +20,10 @@ A simple, responsive tourism website built using **HTML** and **CSS**, designed 
   - Media Queries for responsive design.
   - CSS animations and transitions for interactive elements.
 
+## Demo
+
+You can view a live demo of the e-commerce website [here](http://127.0.0.1:5500/Tourism.html#).
+
 ## How to Run the Project
 1. Clone the repository to your local machine:
    ```bash
@@ -82,6 +86,9 @@ Contributions are welcome! If you'd like to contribute:
 ## License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
----
+## Contact
+
+If you have any questions or suggestions, feel free to contact me at [youremail@example.com](jhaa78144@gmail.com).
+
 
 Feel free to customize this README file according to your specific project details. It provides clear instructions on how to use the project and allows others to contribute easily.
