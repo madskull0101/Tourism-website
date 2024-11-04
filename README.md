@@ -22,7 +22,7 @@ A simple, responsive tourism website built using **HTML** and **CSS**, designed 
 
 ## Demo
 
-You can view a live demo of the e-commerce website [here](http://127.0.0.1:5500/Tourism.html#).
+You can view a live demo of the e-commerce website [here](  http://127.0.0.1:5500/Tourism.html).
 
 ## How to Run the Project
 1. Clone the repository to your local machine:
